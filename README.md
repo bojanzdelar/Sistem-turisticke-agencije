@@ -1,2 +1,1 @@
-# Sistem-turisticke-agencije
-Konzolna aplikacija za pristup turistickoj agenciji
+# Sistem turisticke agencije
